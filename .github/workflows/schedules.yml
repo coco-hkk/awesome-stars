@@ -15,7 +15,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -e git+https://github.com/maguowei/starred#egg=starred
+        pip install -e git+https://github.com/coco-hkk/my-starred#egg=starred
     - name: update repo
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
