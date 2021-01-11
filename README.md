@@ -10,6 +10,7 @@
   - [CoffeeScript](#coffeescript)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
+  - [HTML](#html)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Others](#others)
@@ -47,8 +48,13 @@
 
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 
+## HTML 
+
+- [hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
+
 ## JavaScript 
 
+- [hexo-action](https://github.com/sma11black/hexo-action) - Hexo CI/CD Action for automating deployment.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
