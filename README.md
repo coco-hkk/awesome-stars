@@ -54,6 +54,7 @@
 
 ## JavaScript 
 
+- [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [hexo-action](https://github.com/sma11black/hexo-action) - Hexo CI/CD Action for automating deployment.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
