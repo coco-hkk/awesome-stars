@@ -23,6 +23,7 @@
 
 ## C 
 
+- [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
 
 ## C++ 
@@ -72,6 +73,7 @@
 
 ## Others 
 
+- [Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
 - [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
