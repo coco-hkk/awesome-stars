@@ -23,11 +23,15 @@
 
 ## C 
 
+- [audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
 
 ## C++ 
 
+- [lenmus](https://github.com/lenmus/lenmus) - LenMus Phonascus is a free open source program (GPL v3) for learning music. It allows you to focus on specific skills and exercises, on both theory and aural training. The different activities can be customized to meet your needs.
+- [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
+- [fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
