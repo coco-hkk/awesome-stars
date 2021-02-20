@@ -109,7 +109,7 @@
 
 ## Vim script 
 
-- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
+- [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
