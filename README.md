@@ -77,6 +77,7 @@
 
 ## Others 
 
+- [Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
