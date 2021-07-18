@@ -12,6 +12,7 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Others](#others)
@@ -62,6 +63,10 @@
 ## HTML 
 
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
+
+## Java 
+
+- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 
 ## JavaScript 
 
