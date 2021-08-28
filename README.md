@@ -54,6 +54,7 @@
 
 ## Emacs Lisp 
 
+- [emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 - [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 
 ## Go 
