@@ -106,6 +106,7 @@
 
 ## Python 
 
+- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
 - [IMG2PDF](https://github.com/DeltaHao/IMG2PDF) - 将多张图片转化为一个pdf文件
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
