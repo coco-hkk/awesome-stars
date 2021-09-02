@@ -31,6 +31,7 @@
 
 ## C++ 
 
+- [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
 - [fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [lenmus](https://github.com/lenmus/lenmus) - LenMus Phonascus is a free open source program (GPL v3) for learning music. It allows you to focus on specific skills and exercises, on both theory and aural training. The different activities can be customized to meet your needs.
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
@@ -54,6 +55,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 - [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 
