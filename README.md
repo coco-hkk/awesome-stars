@@ -55,6 +55,7 @@
 
 ## Emacs Lisp 
 
+- [evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
 - [emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
