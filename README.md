@@ -68,6 +68,7 @@
 
 ## HTML 
 
+- [logodiy](https://github.com/sherlonWang/logodiy) - a simple logo diy tool online
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
 ## Java 
@@ -98,6 +99,7 @@
 
 ## Others 
 
+- [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [videoder](https://github.com/static-videoder/videoder) - 
