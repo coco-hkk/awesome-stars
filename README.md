@@ -55,6 +55,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-doom-themes](https://github.com/hlissner/emacs-doom-themes) - An opinionated pack of modern color-themes
+- [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
@@ -127,6 +129,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
