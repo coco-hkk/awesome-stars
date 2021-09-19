@@ -55,6 +55,7 @@
 
 ## Emacs Lisp 
 
+- [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [emacs-doom-themes](https://github.com/hlissner/emacs-doom-themes) - An opinionated pack of modern color-themes
 - [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
