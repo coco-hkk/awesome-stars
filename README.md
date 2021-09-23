@@ -25,6 +25,8 @@
 
 ## C 
 
+- [vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
+- [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
