@@ -57,6 +57,8 @@
 
 ## Emacs Lisp 
 
+- [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
+- [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [emacs-doom-themes](https://github.com/hlissner/emacs-doom-themes) - An opinionated pack of modern color-themes
 - [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
