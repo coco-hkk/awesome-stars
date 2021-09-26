@@ -57,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
 - [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
