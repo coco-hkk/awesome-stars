@@ -32,7 +32,7 @@
 
 ## C++ 
 
-- [im-select](https://github.com/daipeihust/im-select) - Switch your input method through terminal 📟
+- [im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [lenmus](https://github.com/lenmus/lenmus) - LenMus Phonascus is a free open source program (GPL v3) for learning music. It allows you to focus on specific skills and exercises, on both theory and aural training. The different activities can be customized to meet your needs.
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software
