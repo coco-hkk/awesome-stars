@@ -82,7 +82,6 @@
 ## JavaScript 
 
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -132,6 +131,7 @@
 ## Shell 
 
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
