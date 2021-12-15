@@ -56,7 +56,7 @@
 - [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
-- [emacs-doom-themes](https://github.com/hlissner/emacs-doom-themes) - An opinionated pack of modern color-themes
+- [themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
 - [doom-modeline](https://github.com/seagle0128/doom-modeline) - A fancy and fast mode-line inspired by minimalism design.
 - [emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
 - [evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
