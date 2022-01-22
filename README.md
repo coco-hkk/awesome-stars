@@ -151,7 +151,7 @@
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
-- [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
