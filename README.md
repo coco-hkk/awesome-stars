@@ -52,6 +52,7 @@
 
 ## Emacs Lisp 
 
+- [pyim](https://github.com/tumashu/pyim) - 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。
 - [.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
 - [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
