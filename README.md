@@ -52,6 +52,8 @@
 
 ## Emacs Lisp 
 
+- [emacs-guess-word-game](https://github.com/Qquanwei/emacs-guess-word-game) - emacs guess word game for learning ESL. Emacs 背单词
+- [citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
 - [pyim](https://github.com/tumashu/pyim) - 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。
 - [.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
 - [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
