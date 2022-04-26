@@ -52,6 +52,7 @@
 
 ## Emacs Lisp 
 
+- [toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
 - [emacs-guess-word-game](https://github.com/Qquanwei/emacs-guess-word-game) - emacs guess word game for learning ESL. Emacs 背单词
 - [citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
 - [pyim](https://github.com/tumashu/pyim) - 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。
