@@ -82,6 +82,7 @@
 
 ## Java 
 
+- [droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
 - [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
 
 ## JavaScript 
