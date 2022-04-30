@@ -110,6 +110,7 @@
 
 ## Others 
 
+- [wechat-miniprogram-demos](https://github.com/ruanyf/wechat-miniprogram-demos) - 微信小程序教程库
 - [Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
