@@ -24,14 +24,15 @@
 
 ## C 
 
-- [vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
 - [audacity](https://github.com/audacity/audacity) - Audio Editor
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
 - [vimcdoc](https://github.com/yianwillis/vimcdoc) - Vim 中文文档计划
 
 ## C++ 
 
+- [winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [fritzing-app](https://github.com/fritzing/fritzing-app) - Fritzing desktop application
 - [lenmus](https://github.com/lenmus/lenmus) - LenMus Phonascus is a free open source program (GPL v3) for learning music. It allows you to focus on specific skills and exercises, on both theory and aural training. The different activities can be customized to meet your needs.
@@ -88,6 +89,7 @@
 
 ## JavaScript 
 
+- [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [layui](https://github.com/layui/layui) - 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
@@ -110,6 +112,8 @@
 
 ## Others 
 
+- [Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
+- [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [wechat-miniprogram-demos](https://github.com/ruanyf/wechat-miniprogram-demos) - 微信小程序教程库
 - [Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
