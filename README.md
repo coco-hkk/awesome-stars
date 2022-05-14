@@ -58,7 +58,7 @@
 - [citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
 - [pyim](https://github.com/tumashu/pyim) - 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。
 - [.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
-- [straight.el](https://github.com/raxod502/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
+- [straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [hydra](https://github.com/abo-abo/hydra) - make Emacs bindings that stick around
 - [themes](https://github.com/doomemacs/themes) - A megapack of themes for GNU Emacs.
@@ -85,7 +85,7 @@
 
 - [VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
 - [droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
-- [Arduino](https://github.com/arduino/Arduino) - open-source electronics platform
+- [Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
 ## JavaScript 
 
