@@ -185,7 +185,7 @@
 
 ## XSLT 
 
-- [LFS-BOOK](https://github.com/LCTT/LFS-BOOK) - LFS Book 翻译项目
+- [LFS-BOOK](https://github.com/LCTT/LFS-BOOK) - LFS Book 翻译项目(本项目停止维护 最新简体中文版可移步Xi Ruoyao持续维护的网页https://lfs.xry111.site/zh_CN/)
 
 
 ## License
