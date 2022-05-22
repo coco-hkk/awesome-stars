@@ -55,6 +55,12 @@
 
 ## Emacs Lisp 
 
+- [markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
+- [flycheck](https://github.com/flycheck/flycheck) - On the fly syntax checking for GNU Emacs
+- [all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
+- [org-transclusion](https://github.com/nobiot/org-transclusion) - Emacs package to enable transclusion with Org Mode
+- [org-roam-timestamps](https://github.com/ThomasFKJorna/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer
+- [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software
 - [toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
 - [emacs-guess-word-game](https://github.com/Qquanwei/emacs-guess-word-game) - emacs guess word game for learning ESL. Emacs 背单词
 - [citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
