@@ -55,6 +55,9 @@
 
 ## Emacs Lisp 
 
+- [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
+- [centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
+- [emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
 - [markdown-mode](https://github.com/jrblevin/markdown-mode) - Emacs Markdown Mode
 - [flycheck](https://github.com/flycheck/flycheck) - On the fly syntax checking for GNU Emacs
 - [all-the-icons.el](https://github.com/domtronn/all-the-icons.el) - A utility package to collect various Icon Fonts and propertize them within Emacs.
