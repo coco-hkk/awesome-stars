@@ -26,6 +26,7 @@
 
 ## C 
 
+- [ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
 - [audacity](https://github.com/audacity/audacity) - Audio Editor
@@ -55,6 +56,7 @@
 
 ## Emacs Lisp 
 
+- [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
 - [centaur-tabs](https://github.com/ema2159/centaur-tabs) - Emacs plugin aiming to become an aesthetic, modern looking tabs plugin
 - [emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
