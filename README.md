@@ -56,6 +56,7 @@
 
 ## Emacs Lisp 
 
+- [emacspeak](https://github.com/tvraman/emacspeak) - Automatically exported from code.google.com/p/emacspeak
 - [yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
