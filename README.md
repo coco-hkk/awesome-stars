@@ -57,6 +57,7 @@
 
 ## Emacs Lisp 
 
+- [lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
 - [yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
