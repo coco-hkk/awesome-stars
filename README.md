@@ -15,6 +15,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
@@ -134,6 +135,10 @@
 - [Readhub](https://github.com/lovejjfg/Readhub) - This is the Android Client for Readhub
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 
+## Lua 
+
+- [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+
 ## Others 
 
 - [Elisp](https://github.com/advanceflow/Elisp) - 
@@ -195,7 +200,6 @@
 
 - [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
-- [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
