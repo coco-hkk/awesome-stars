@@ -22,6 +22,7 @@
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
+  - [Vim Script](#vim-script)
   - [Vim script](#vim-script)
   - [XSLT](#xslt)
 
@@ -194,6 +195,11 @@
 
 - [org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 
+## Vim Script 
+
+- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vim](https://github.com/vim/vim) - The official Vim repository
+
 ## Vim script 
 
 - [ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
@@ -204,11 +210,9 @@
 - [vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
-- [vim](https://github.com/vim/vim) - The official Vim repository
 
 ## XSLT 
 
