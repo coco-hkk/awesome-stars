@@ -164,6 +164,7 @@
 
 ## Python 
 
+- [tesserocr-windows_build](https://github.com/simonflueckiger/tesserocr-windows_build) - 
 - [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
