@@ -166,6 +166,7 @@
 
 ## Python 
 
+- [ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [tesserocr-windows_build](https://github.com/simonflueckiger/tesserocr-windows_build) - 
 - [emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
