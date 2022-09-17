@@ -205,6 +205,7 @@
 ## Vim Script 
 
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+- [vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [pangu.vim](https://github.com/hotoo/pangu.vim) - 『盘古之白』中文排版自动规范化的 Vim 插件
@@ -216,7 +217,6 @@
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
-- [vim-markdown](https://github.com/preservim/vim-markdown) - Markdown Vim Mode
 - [spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
