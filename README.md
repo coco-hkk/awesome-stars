@@ -28,6 +28,7 @@
 
 ## C 
 
+- [tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -110,6 +111,7 @@
 
 ## JavaScript 
 
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
