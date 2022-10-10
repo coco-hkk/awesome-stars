@@ -112,6 +112,7 @@
 
 ## JavaScript 
 
+- [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
