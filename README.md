@@ -146,7 +146,6 @@
 
 ## Others 
 
-- [bookget](https://github.com/deweizhu/bookget) - bookget 数字图书馆（古籍）下载工具
 - [Elisp](https://github.com/advanceflow/Elisp) - 
 - [j4x-api-collection](https://github.com/alexandreelise/j4x-api-collection) - An attempt to help the Joomla! 4 early adopters mainly focused for developers. It's an unofficial  postman collection of the official since Joomla4 Beta API until now
 - [Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
