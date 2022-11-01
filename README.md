@@ -95,7 +95,6 @@
 - [evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
 - [emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
-- [emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
 - [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
 
 ## Go 
@@ -111,6 +110,7 @@
 
 ## Java 
 
+- [freeplane](https://github.com/freeplane/freeplane) - Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.
 - [VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
 - [droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
 - [Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
