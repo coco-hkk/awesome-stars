@@ -175,6 +175,7 @@
 
 ## Python 
 
+- [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [tesserocr-windows_build](https://github.com/simonflueckiger/tesserocr-windows_build) - 
