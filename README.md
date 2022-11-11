@@ -61,6 +61,7 @@
 
 ## CSS 
 
+- [xf-guokai](https://github.com/160499844/xf-guokai) - 国开自动刷课程序
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
@@ -105,6 +106,7 @@
 
 ## HTML 
 
+- [Lazy13source.github.io](https://github.com/lazyvip/Lazy13source.github.io) - 
 - [logodiy](https://github.com/sherlonWang/logodiy) - a simple logo diy tool online
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
 
@@ -117,6 +119,8 @@
 
 ## JavaScript 
 
+- [auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
+- [replace-video](https://github.com/88886/replace-video) - 国家开放大学自动刷课
 - [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
@@ -175,6 +179,7 @@
 
 ## Python 
 
+- [XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
 - [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
