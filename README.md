@@ -121,7 +121,6 @@
 ## JavaScript 
 
 - [auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
-- [replace-video](https://github.com/88886/replace-video) - 国家开放大学自动刷课
 - [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
