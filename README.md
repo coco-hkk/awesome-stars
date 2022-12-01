@@ -160,6 +160,7 @@
 
 ## Others 
 
+- [blog](https://github.com/lio-zero/blog) - I hope my content can help you. Now I focus on the front-end field, but I will also share what I see and feel in my limited time.✨✨
 - [koa-docs-Zh-CN](https://github.com/demopark/koa-docs-Zh-CN) - Koa 文档的中文版本 , 更新至 v2.13.4 版本.
 - [Elisp](https://github.com/advanceflow/Elisp) - 
 - [j4x-api-collection](https://github.com/alexandreelise/j4x-api-collection) - An attempt to help the Joomla! 4 early adopters mainly focused for developers. It's an unofficial  postman collection of the official since Joomla4 Beta API until now
@@ -185,6 +186,7 @@
 
 ## Python 
 
+- [GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
 - [XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
 - [machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
