@@ -42,7 +42,7 @@
 
 ## C# # 
 
-- [EasyBrowserAdvanced](https://github.com/KaiHuaDou/EasyBrowserAdvanced) - 极简浏览器基于Chromium的版本
+- [EasyBrowserAdvanced](https://github.com/KaiHuaDou/EasyBrowserAdvanced) - 基于 Chromium 的极简浏览器
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
 
@@ -74,7 +74,7 @@
 
 ## Emacs Lisp 
 
-- [lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - Fastest LSP client for Emacs
+- [lsp-bridge](https://github.com/manateelazycat/lsp-bridge) - A blazingly fast LSP client for Emacs
 - [yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
 - [exwm](https://github.com/ch11ng/exwm) - Emacs X Window Manager
 - [emacs-dashboard](https://github.com/emacs-dashboard/emacs-dashboard) - An extensible emacs dashboard
