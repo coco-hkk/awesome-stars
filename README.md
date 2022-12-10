@@ -48,6 +48,7 @@
 
 ## C++ 
 
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！
 - [opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
