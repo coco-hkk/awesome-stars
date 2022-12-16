@@ -25,6 +25,7 @@
   - [TypeScript](#typescript)
   - [Vim Script](#vim-script)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
   - [XSLT](#xslt)
 
 ## C 
@@ -205,6 +206,7 @@
 
 ## Rust 
 
+- [rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## Shell 
@@ -250,6 +252,10 @@
 - [vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
 - [solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+
+## Vue 
+
+- [ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 
 ## XSLT 
 
