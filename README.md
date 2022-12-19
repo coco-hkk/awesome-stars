@@ -212,6 +212,7 @@
 
 ## Shell 
 
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
