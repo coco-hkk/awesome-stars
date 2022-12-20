@@ -9,6 +9,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
@@ -43,6 +44,7 @@
 
 ## C# # 
 
+- [GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
 - [EasyBrowserAdvanced](https://github.com/KaiHuaDou/EasyBrowserAdvanced) - 基于 Chromium 的极简浏览器
 - [ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
@@ -73,6 +75,10 @@
 ## CoffeeScript 
 
 - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+
+## Dart 
+
+- [keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.
 
 ## Emacs Lisp 
 
@@ -114,6 +120,7 @@
 
 ## HTML 
 
+- [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [Lazy13source.github.io](https://github.com/lazyvip/Lazy13source.github.io) - 
 - [logodiy](https://github.com/sherlonWang/logodiy) - a simple logo diy tool online
 - [docker-ubuntu-vnc-desktop](https://github.com/fcwu/docker-ubuntu-vnc-desktop) - A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.
@@ -128,6 +135,7 @@
 
 ## JavaScript 
 
+- [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
 - [Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
@@ -229,6 +237,7 @@
 
 ## TypeScript 
 
+- [timer](https://github.com/sheepzh/timer) - Timer/网费很贵, to be the BEST web timer.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
