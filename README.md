@@ -52,6 +52,7 @@
 
 ## C++ 
 
+- [LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
