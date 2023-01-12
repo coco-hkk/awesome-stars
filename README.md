@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -247,6 +248,7 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [timer](https://github.com/sheepzh/timer) - Timer/网费很贵, to be the BEST web timer.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
