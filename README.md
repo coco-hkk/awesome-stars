@@ -31,6 +31,7 @@
 
 ## C 
 
+- [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
@@ -47,6 +48,7 @@
 
 ## C# # 
 
+- [optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
@@ -183,6 +185,7 @@
 
 ## Others 
 
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [blog](https://github.com/lio-zero/blog) - I hope my content can help you. Now I focus on the front-end field, but I will also share what I see and feel in my limited time.✨✨
 - [koa-docs-Zh-CN](https://github.com/demopark/koa-docs-Zh-CN) - Koa 文档的中文版本 , 更新至 v2.13.4 版本.
 - [Elisp](https://github.com/advanceflow/Elisp) - 
@@ -248,6 +251,7 @@
 
 ## TypeScript 
 
+- [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [timer](https://github.com/sheepzh/timer) - Timer/网费很贵, to be the BEST web timer.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
