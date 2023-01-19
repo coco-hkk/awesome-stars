@@ -80,6 +80,7 @@
 ## CSS 
 
 - [xf-guokai](https://github.com/160499844/xf-guokai) - 国开自动刷课程序
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## CoffeeScript 
 
@@ -238,7 +239,6 @@
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
