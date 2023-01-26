@@ -31,6 +31,7 @@
 
 ## C 
 
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
@@ -48,6 +49,7 @@
 
 ## C# # 
 
+- [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
 - [Kling](https://github.com/KaustubhPatange/Kling) - A utility to show keyboard keys visually on the Windows screen.
 - [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
@@ -150,6 +152,7 @@
 
 ## JavaScript 
 
+- [cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. Will update when there are new issues.
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
@@ -257,7 +260,6 @@
 
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
-- [timer](https://github.com/sheepzh/timer) - Timer/网费很贵, to be the BEST web timer.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
