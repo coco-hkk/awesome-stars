@@ -31,6 +31,7 @@
 
 ## C 
 
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
@@ -152,6 +153,7 @@
 
 ## JavaScript 
 
+- [listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 - [cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
 - [wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. Will update when there are new issues.
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
