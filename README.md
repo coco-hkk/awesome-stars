@@ -50,6 +50,7 @@
 
 ## C# # 
 
+- [Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
