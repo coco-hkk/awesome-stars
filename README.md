@@ -232,6 +232,7 @@
 
 ## Python 
 
+- [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [selenium-python](https://github.com/baijum/selenium-python) - Selenium Python Bindings Documentation
 - [arkid](https://github.com/longguikeji/arkid) - 一账通是一款开源的统一身份认证授权管理解决方案，支持多种标准协议(LDAP, OAuth2, SAML, OpenID)，细粒度权限控制，完整的WEB管理功能，钉钉、企业微信集成等，QQ group: 167885406
 - [GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
@@ -273,6 +274,7 @@
 
 ## TypeScript 
 
+- [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
