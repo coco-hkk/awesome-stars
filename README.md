@@ -19,6 +19,7 @@
   - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -229,6 +230,10 @@
 
 - [chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
 - [joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
+
+## PowerShell 
+
+- [PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 
 ## Python 
 
