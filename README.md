@@ -19,6 +19,7 @@
   - [Lua](#lua)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rust](#rust)
@@ -32,6 +33,7 @@
 
 ## C 
 
+- [odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
@@ -231,6 +233,10 @@
 - [chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
 - [joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+## Pascal 
+
+- [CudaLister](https://github.com/Alexey-T/CudaLister) - Lister plugin for Total Commander, based on ATSynEdit
+
 ## PowerShell 
 
 - [PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
@@ -279,6 +285,7 @@
 
 ## TypeScript 
 
+- [cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
