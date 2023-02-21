@@ -33,7 +33,6 @@
 
 ## C 
 
-- [odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
@@ -164,7 +163,7 @@
 
 - [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
-- [cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a brain
+- [cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. Will update when there are new issues.
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
