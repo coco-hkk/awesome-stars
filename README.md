@@ -203,6 +203,7 @@
 
 ## Others 
 
+- [blog](https://github.com/jiujuan/blog) - my blog，把博客文章分门别类，整理成系列文章
 - [Online_Tools](https://github.com/r0eXpeR/Online_Tools) - 一些在线的工具,情报资源
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
