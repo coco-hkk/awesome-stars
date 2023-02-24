@@ -22,6 +22,7 @@
   - [Pascal](#pascal)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -69,6 +70,7 @@
 
 ## C++ 
 
+- [jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [webcamoid](https://github.com/webcamoid/webcamoid) - Webcamoid is a full featured and multiplatform webcam suite.
 - [LIII](https://github.com/aliakseis/LIII) - multi-platform bittorrent client
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -203,6 +205,7 @@
 
 ## Others 
 
+- [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) - 多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具
 - [blog](https://github.com/jiujuan/blog) - my blog，把博客文章分门别类，整理成系列文章
 - [Online_Tools](https://github.com/r0eXpeR/Online_Tools) - 一些在线的工具,情报资源
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -259,6 +262,10 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
+
+## Ruby 
+
+- [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
 ## Rust 
 
