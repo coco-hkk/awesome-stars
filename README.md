@@ -207,6 +207,7 @@
 
 ## Others 
 
+- [tech-talks](https://github.com/just-talks/tech-talks) - 不闲聊的技术论坛。分享有趣的事物，交流想法，获得灵感，结识朋友，提升自己。
 - [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) - 多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具
 - [blog](https://github.com/jiujuan/blog) - my blog，把博客文章分门别类，整理成系列文章
 - [Online_Tools](https://github.com/r0eXpeR/Online_Tools) - 一些在线的工具,情报资源
