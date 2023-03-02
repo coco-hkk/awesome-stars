@@ -256,6 +256,7 @@
 
 ## Python 
 
+- [damai_ticket](https://github.com/AnTi-anti/damai_ticket) - 大麦网抢票脚本
 - [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
@@ -341,6 +342,7 @@
 
 ## Vue 
 
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页
 - [ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 
 ## XSLT 
