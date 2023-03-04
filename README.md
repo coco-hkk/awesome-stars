@@ -214,6 +214,7 @@
 
 ## Others 
 
+- [python-scrapy](https://github.com/AnTi-anti/python-scrapy) - 52讲轻松搞定爬虫
 - [tech-talks](https://github.com/just-talks/tech-talks) - 不闲聊的技术论坛。分享有趣的事物，交流想法，获得灵感，结识朋友，提升自己。
 - [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) - 多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具
 - [blog](https://github.com/jiujuan/blog) - my blog，把博客文章分门别类，整理成系列文章
@@ -256,7 +257,6 @@
 
 ## Python 
 
-- [damai_ticket](https://github.com/AnTi-anti/damai_ticket) - 大麦网抢票脚本
 - [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
