@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
@@ -151,6 +152,7 @@
 
 ## HTML 
 
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [Lazy13source.github.io](https://github.com/lazyvip/Lazy13source.github.io) - 
@@ -169,6 +171,7 @@
 
 ## JavaScript 
 
+- [koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 - [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
@@ -202,6 +205,7 @@
 
 ## Kotlin 
 
+- [ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [pulsarr](https://github.com/platonai/pulsarr) - Scrape web data at scale completely and accurately with high performance, distributed RPA.
 - [TogetherAd](https://github.com/ifmvo/TogetherAd) - 🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
@@ -260,6 +264,8 @@
 
 ## Python 
 
+- [pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
