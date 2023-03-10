@@ -55,6 +55,7 @@
 
 ## C# # 
 
+- [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
 - [Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
@@ -201,6 +202,7 @@
 
 ## Jupyter Notebook 
 
+- [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 
 ## Kotlin 
