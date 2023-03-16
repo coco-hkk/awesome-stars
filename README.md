@@ -18,6 +18,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [Markdown](#markdown)
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
@@ -35,6 +36,7 @@
 
 ## C 
 
+- [tmux](https://github.com/tmux/tmux) - tmux source code
 - [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -180,7 +182,7 @@
 - [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 - [cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
-- [wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. Will update when there are new issues.
+- [wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW FEATURE UPDATES PAUSED.)
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
@@ -223,8 +225,13 @@
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 
+## Markdown 
+
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Others 
 
+- [awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源
 - [python-scrapy](https://github.com/AnTi-anti/python-scrapy) - 52讲轻松搞定爬虫
 - [tech-talks](https://github.com/just-talks/tech-talks) - 不闲聊的技术论坛。分享有趣的事物，交流想法，获得灵感，结识朋友，提升自己。
 - [PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) - 多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具
@@ -309,7 +316,7 @@
 ## Shell 
 
 - [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
-- [Xray_bash_onekey](https://github.com/paniy/Xray_bash_onekey) - Xray+Nginx 包含 VLESS WebSocket/gPRC+TLS / XTLS+TCP 协议的一键安装脚本
+- [Xray_bash_onekey](https://github.com/hello-yunshu/Xray_bash_onekey) - Xray+Nginx 包含 VLESS WebSocket/gPRC+TLS / XTLS+TCP 协议的一键安装脚本
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
@@ -327,6 +334,7 @@
 
 ## TypeScript 
 
+- [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
