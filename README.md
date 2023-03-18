@@ -57,6 +57,7 @@
 
 ## C# # 
 
+- [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - [.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 - [carnac](https://github.com/Code52/carnac) - A utility to give some insight into how you use your keyboard
@@ -77,6 +78,7 @@
 
 ## C++ 
 
+- [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [mahjong](https://github.com/xiyoufang/mahjong) - 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -176,6 +178,7 @@
 
 ## JavaScript 
 
+- [lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
@@ -231,6 +234,7 @@
 
 ## Others 
 
+- [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源
 - [python-scrapy](https://github.com/AnTi-anti/python-scrapy) - 52讲轻松搞定爬虫
 - [tech-talks](https://github.com/just-talks/tech-talks) - 不闲聊的技术论坛。分享有趣的事物，交流想法，获得灵感，结识朋友，提升自己。
