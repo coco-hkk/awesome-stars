@@ -27,6 +27,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vim Script](#vim-script)
@@ -36,6 +37,8 @@
 
 ## C 
 
+- [Eternal-Lands](https://github.com/raduprv/Eternal-Lands) - 
+- [freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://osdn.net/projects/freeciv/ticket/
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / finder) app for Windows and Linux.
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt
@@ -78,6 +81,14 @@
 
 ## C++ 
 
+- [widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+- [openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
+- [freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
+- [warzone2100](https://github.com/Warzone2100/warzone2100) - Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+
+- [0ad](https://github.com/0ad/0ad) - Git mirror of the 0 A.D. source code (http://trac.wildfiregames.com/browser)
+- [stuntrally](https://github.com/stuntrally/stuntrally) - Note: development continues in stuntrally3. 3D racing game based on VDrift and OGRE with own Track Editor. The main repository with Stunt Rally sources and data.
+- [minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe
 - [wesnoth](https://github.com/wesnoth/wesnoth) - An open source, turn-based strategy game with a high fantasy theme.
 - [mahjong](https://github.com/xiyoufang/mahjong) - 基于Cocos2d-X 3.17 跨平台单机麻将，商业级麻将算法、AI算法
@@ -279,6 +290,8 @@
 
 ## Python 
 
+- [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
+- [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -330,6 +343,10 @@
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 
+## Swift 
+
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+
 ## TeX 
 
 - [draft](https://github.com/cplusplus/draft) - C++ standards drafts
@@ -338,6 +355,7 @@
 
 ## TypeScript 
 
+- [ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
