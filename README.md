@@ -245,6 +245,7 @@
 
 ## Others 
 
+- [community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源
 - [python-scrapy](https://github.com/AnTi-anti/python-scrapy) - 52讲轻松搞定爬虫
@@ -355,6 +356,7 @@
 
 ## TypeScript 
 
+- [tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
