@@ -19,6 +19,7 @@
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Markdown](#markdown)
+  - [NSIS](#nsis)
   - [Others](#others)
   - [PHP](#php)
   - [Pascal](#pascal)
@@ -245,6 +246,10 @@
 
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
+## NSIS 
+
+- [gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
+
 ## Others 
 
 - [community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
@@ -289,6 +294,7 @@
 
 ## PowerShell 
 
+- [boxstarter](https://github.com/chocolatey/boxstarter) - Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
 - [PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 
 ## Python 
