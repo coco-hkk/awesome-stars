@@ -83,6 +83,7 @@
 
 ## C++ 
 
+- [OpenTTD-patches](https://github.com/JGRennison/OpenTTD-patches) - OpenTTD - http://www.openttd.org/ - with additional patches
 - [widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 - [openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [freeorion](https://github.com/freeorion/freeorion) - Source code repository of the FreeOrion project.
