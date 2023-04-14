@@ -272,7 +272,6 @@
 - [Yuedu](https://github.com/XIU2/Yuedu) - 📚「阅读」APP 精品书源（网络小说）
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [wechat-miniprogram-demos](https://github.com/ruanyf/wechat-miniprogram-demos) - 微信小程序教程库
-- [Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
@@ -348,6 +347,7 @@
 - [k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
 - [Xray_bash_onekey](https://github.com/hello-yunshu/Xray_bash_onekey) - Xray+Nginx 包含 VLESS WebSocket/gPRC+TLS / XTLS+TCP 协议的一键安装脚本
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
