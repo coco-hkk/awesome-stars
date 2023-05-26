@@ -226,6 +226,7 @@
 
 ## Jupyter Notebook 
 
+- [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 
@@ -302,6 +303,7 @@
 
 ## Python 
 
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [kankan](https://github.com/ximendadao/kankan) - python爬虫破解js，天天看看登录（www.kankan.com）
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
