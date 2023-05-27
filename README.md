@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [kankan](https://github.com/ximendadao/kankan) - python爬虫破解js，天天看看登录（www.kankan.com）
 - [Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
