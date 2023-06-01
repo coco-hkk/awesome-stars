@@ -234,7 +234,7 @@
 
 - [uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-- [pulsarRPA](https://github.com/platonai/pulsarRPA) - Scrape web data at scale completely and accurately with high performance, distributed RPA.
+- [PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA.
 - [TogetherAd](https://github.com/ifmvo/TogetherAd) - 🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。
 - [tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
