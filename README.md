@@ -43,6 +43,7 @@
 
 ## C 
 
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 - [Eternal-Lands](https://github.com/raduprv/Eternal-Lands) - 
 - [freeciv](https://github.com/freeciv/freeciv) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://osdn.net/projects/freeciv/ticket/
@@ -92,6 +93,7 @@
 
 ## C++ 
 
+- [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
 - [OpenTTD-patches](https://github.com/JGRennison/OpenTTD-patches) - OpenTTD - http://www.openttd.org/ - with additional patches
@@ -389,6 +391,7 @@
 
 ## TypeScript 
 
+- [arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
