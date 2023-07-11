@@ -189,6 +189,7 @@
 
 ## HTML 
 
+- [webdriver](https://github.com/w3c/webdriver) - Remote control interface that enables introspection and control of user agents.
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
@@ -396,6 +397,7 @@
 
 ## TypeScript 
 
+- [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [online-go.com](https://github.com/online-go/online-go.com) - Source code for the Online-Go.com web interface
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
