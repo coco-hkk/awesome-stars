@@ -404,7 +404,7 @@
 - [tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open-Source Business Management Platform (ERP/CRM/HRM)
 - [squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [cicada](https://github.com/mebtte/cicada) - 知了, 支持多用户的开源音乐服务.
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
