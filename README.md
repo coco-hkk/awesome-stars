@@ -178,7 +178,7 @@
 
 ## Go 
 
-- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code Intelligence Platform
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
