@@ -360,6 +360,7 @@
 
 ## Ruby 
 
+- [vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
 ## Rust 
