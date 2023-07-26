@@ -95,6 +95,10 @@
 
 ## C++ 
 
+- [kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
+- [moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
+- [picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
+- [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [rigs-of-rods](https://github.com/RigsOfRods/rigs-of-rods) - Main development repository for Rigs of Rods soft-body physics simulator
@@ -276,6 +280,8 @@
 
 ## Others 
 
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [WindowTop](https://github.com/aeagean/WindowTop) - 一个Windows平台的窗口置顶工具。
 - [community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
