@@ -43,6 +43,7 @@
 
 ## C 
 
+- [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
@@ -317,7 +318,7 @@
 
 ## PHP 
 
-- [celaraze/chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的运维资产管理平台。软硬件资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架和DcatAdmin开发。
+- [celaraze/chemex](https://github.com/celaraze/chemex) - ☕ 咖啡壶是一个免费、开源、高效且漂亮的资产管理平台。资产管理、归属/使用者追溯、盘点以及可靠的服务器状态管理面板。基于优雅的Laravel框架开发。
 - [joomla/joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
 ## Pascal 
