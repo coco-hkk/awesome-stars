@@ -96,6 +96,7 @@
 - [music](#music)
 - [mysql](#mysql)
 - [neovim](#neovim)
+- [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -345,6 +346,8 @@
 
 ## deep-learning 
 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -709,6 +712,9 @@
 
 ## machine-learning 
 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -775,6 +781,10 @@
 - [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
+## neural-network 
+
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
+
 ## nextjs 
 
 - [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
@@ -830,6 +840,8 @@
 
 ## others 
 
+- [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRN
+- [akai-katto/dandere2x](https://github.com/akai-katto/dandere2x) - Dandere2x - Fast Waifu2x Video Upscaling.
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [apachecn/apachecn-linux-zh-pt3](https://github.com/apachecn/apachecn-linux-zh-pt3) - 
@@ -986,6 +998,7 @@
 
 ## python 
 
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
 - [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [Elektordi/obs-websocket-py](https://github.com/Elektordi/obs-websocket-py) - Python library to communicate with an obs-websocket server (for OBS Studio)
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
