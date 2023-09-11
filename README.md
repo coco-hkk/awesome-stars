@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [apachecn/apachecn-linux-zh-pt3](https://github.com/apachecn/apachecn-linux-zh-pt3) - 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -425,7 +426,7 @@
 
 ## TypeScript 
 
-- [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款支持多人协作的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
+- [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
