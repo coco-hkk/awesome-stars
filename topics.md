@@ -854,6 +854,7 @@
 
 ## others 
 
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
