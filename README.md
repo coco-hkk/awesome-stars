@@ -20,6 +20,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Others](#others)
@@ -278,6 +279,10 @@
 ## Lua 
 
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
+
+## Makefile 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## Markdown 
 
