@@ -345,6 +345,7 @@
 
 ## Python 
 
+- [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
 - [bosombaby/flask-course](https://github.com/bosombaby/flask-course) - Flask 是一个使用 Python 编写的轻量级 Web 应用框架。它基于 Werkzeug WSGI 工具箱和 Jinja2 模板引擎，提供了简单易用的 API，可以帮助开发者快速构建 Web 应用程序。Flask 框架具有灵活性和可扩展性，可以根据需要添加各种插件和扩展，例如数据库集成、表单验证、用户认证等。Flask 框架还提供了丰富的文档和社区支持，使得开发者可以轻松地学习和使用它。
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [jliljebl/flowblade](https://github.com/jliljebl/flowblade) - Video Editor for Linux
@@ -432,6 +433,7 @@
 
 ## TypeScript 
 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
