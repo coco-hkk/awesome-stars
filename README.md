@@ -189,6 +189,7 @@
 
 ## Go 
 
+- [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
 - [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [mindoc-org/mindoc](https://github.com/mindoc-org/mindoc) - Golang实现的基于beego框架的接口在线文档管理系统
@@ -345,6 +346,7 @@
 
 ## Python 
 
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
 - [bosombaby/flask-course](https://github.com/bosombaby/flask-course) - Flask 是一个使用 Python 编写的轻量级 Web 应用框架。它基于 Werkzeug WSGI 工具箱和 Jinja2 模板引擎，提供了简单易用的 API，可以帮助开发者快速构建 Web 应用程序。Flask 框架具有灵活性和可扩展性，可以根据需要添加各种插件和扩展，例如数据库集成、表单验证、用户认证等。Flask 框架还提供了丰富的文档和社区支持，使得开发者可以轻松地学习和使用它。
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
