@@ -881,6 +881,8 @@
 
 ## others 
 
+- [aburch/simutrans](https://github.com/aburch/simutrans) - Mirror of Simutrans SVN Repository
+- [chiwent/awesome-linux-software-cn](https://github.com/chiwent/awesome-linux-software-cn) - Linux 优秀软件资源大全中文版：一些针对 Linux 发行版的非常棒的应用程序、实用工具以及其它相关材料。A curated list of awesome applications, softwares, tools and other materials for Linux distros.
 - [douhaohaode/Swap-Mukham](https://github.com/douhaohaode/Swap-Mukham) - Gradio UI for insightface inswapper with additional features
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
