@@ -48,6 +48,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [emoji](#emoji)
 - [emulator](#emulator)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -448,6 +449,10 @@
 - [edkolev/evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 
+## emoji 
+
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+
 ## emulator 
 
 - [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
@@ -785,6 +790,7 @@
 
 ## markdown 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
@@ -1064,6 +1070,7 @@
 
 ## python 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-p
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
@@ -1093,6 +1100,7 @@
 
 ## python3 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
 - [bosombaby/flask-course](https://github.com/bosombaby/flask-course) - Flask 是一个使用 Python 编写的轻量级 Web 应用框架。它基于 Werkzeug WSGI 工具箱和 Jinja2 模板引擎，提供了简单易用的 API，可以帮助开发者快速构建 Web 应用程序。Flask 框架具有灵活性和可扩展性，可以根据需要添加各种插件和扩展，例如数据库集成、表单验证、用户认证等。Flask 框架还提供了丰富的文档和社区支持，使得开发者可以轻松地学习和使用它。
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
@@ -1213,6 +1221,7 @@
 
 ## terminal 
 
+- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
