@@ -28,6 +28,7 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -376,7 +377,6 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [kaushikj/video2pdf](https://github.com/kaushikj/video2pdf) - 
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [ximendadao/kankan](https://github.com/ximendadao/kankan) - python爬虫破解js，天天看看登录（www.kankan.com）
@@ -407,6 +407,10 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
+
+## QML 
+
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - 开源、免费、实用的离线OCR软件。截屏/粘贴/批量导入图片，支持段落排版/排除水印，扫描/生成二维码。全程无需联网，内置多国语言识别库。
 
 ## Roff 
 
