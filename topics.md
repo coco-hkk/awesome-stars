@@ -117,6 +117,7 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [powershell](#powershell)
+- [privacy](#privacy)
 - [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
@@ -918,7 +919,6 @@
 - [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [apachecn/apachecn-linux-zh-pt3](https://github.com/apachecn/apachecn-linux-zh-pt3) - 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [aeagean/WindowTop](https://github.com/aeagean/WindowTop) - 一个Windows平台的窗口置顶工具。
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - Foreign language reading and translation assistant based on copy and translate.
@@ -1062,6 +1062,11 @@
 - [dfinke/ImportExcel](https://github.com/dfinke/ImportExcel) - PowerShell module to import/export Excel spreadsheets, without Excel
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+## privacy 
+
+- [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 
 ## project-management 
 
