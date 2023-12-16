@@ -904,6 +904,7 @@
 
 ## others 
 
+- [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [python-openxml/python-docx](https://github.com/python-openxml/python-docx) - Create and modify Word documents with Python
 - [aburch/simutrans](https://github.com/aburch/simutrans) - Mirror of Simutrans SVN Repository
 - [chiwent/awesome-linux-software-cn](https://github.com/chiwent/awesome-linux-software-cn) - Linux 优秀软件资源大全中文版：一些针对 Linux 发行版的非常棒的应用程序、实用工具以及其它相关材料。A curated list of awesome applications, softwares, tools and other materials for Linux distros.
