@@ -207,6 +207,7 @@
 
 ## Go 
 
+- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
@@ -375,6 +376,7 @@
 
 ## Python 
 
+- [2833844911/gurs](https://github.com/2833844911/gurs) - python模拟鼠标滑动轨迹
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
