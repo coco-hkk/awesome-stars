@@ -140,6 +140,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [software](#software)
+- [solidity](#solidity)
 - [spacevim](#spacevim)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -169,6 +170,7 @@
 
 ## ai 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -336,6 +338,7 @@
 
 ## csharp 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
@@ -960,6 +963,7 @@
 
 ## others 
 
+- [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [2833844911/gurs](https://github.com/2833844911/gurs) - python模拟鼠标滑动轨迹
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
@@ -977,6 +981,7 @@
 - [akai-katto/dandere2x](https://github.com/akai-katto/dandere2x) - Dandere2x - Fast Waifu2x Video Upscaling.
 - [pdfforge/PDFCreator](https://github.com/pdfforge/PDFCreator) - PDFCreator - The free PDF Converter
 - [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
+- [apachecn/apachecn-linux-zh-pt3](https://github.com/apachecn/apachecn-linux-zh-pt3) - 
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [redmine/redmine](https://github.com/redmine/redmine) - Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
 - [aeagean/WindowTop](https://github.com/aeagean/WindowTop) - 一个Windows平台的窗口置顶工具。
@@ -1047,6 +1052,7 @@
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [simonflueckiger/tesserocr-windows_build](https://github.com/simonflueckiger/tesserocr-windows_build) - 
+- [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [advanceflow/Elisp](https://github.com/advanceflow/Elisp) - 
 - [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
@@ -1166,6 +1172,7 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time!
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -1195,6 +1202,7 @@
 
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/
 
 ## qt 
@@ -1274,6 +1282,10 @@
 ## software 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## solidity 
+
+- [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 
 ## spacevim 
 
