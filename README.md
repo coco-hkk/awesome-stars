@@ -321,6 +321,7 @@
 
 ## Others 
 
+- [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [ThanlonSmith/design-pattern](https://github.com/ThanlonSmith/design-pattern) - Python3实现设计模式，致力于将设计模式的思想应用在开发中。创建型模式有：简单工厂模式、工厂方法模式、抽象工厂模式、 建造者模式和单例模式；结构型模式：适配器模式、桥模式、组合模式、外观模式和代理模式；行为型模式：责任链模式、观察者模式、策略模式和模板方法模式。设计模式是对软件设计中普遍存在或反复出向的各种问题所提出的解决方案。每一个设计模式系统地被命名、解释和评价了面向对象系统中一个重要和重
