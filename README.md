@@ -102,7 +102,7 @@
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
+- [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - The application for displaying pressed keys of the keyboard
 - [KaustubhPatange/Kling](https://github.com/KaustubhPatange/Kling) - A utility to show keyboard keys visually on the Windows screen.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
