@@ -1058,7 +1058,7 @@
 - [160499844/xf-guokai](https://github.com/160499844/xf-guokai) - 国开自动刷课程序
 - [Levitans/XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
 - [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
-- [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：CPP软件开发/Qt教程
+- [feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo) - Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！公众号：Qt实战/Qt教程
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
 - [simonflueckiger/tesserocr-windows_build](https://github.com/simonflueckiger/tesserocr-windows_build) - 
@@ -1334,7 +1334,7 @@
 
 ## telegram 
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## terminal 
 
@@ -1355,7 +1355,7 @@
 
 ## twitter 
 
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 ## typescript 
 
