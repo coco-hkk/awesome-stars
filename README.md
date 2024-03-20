@@ -55,7 +55,7 @@
 
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/Aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [obs-ndi/obs-ndi](https://github.com/obs-ndi/obs-ndi) - NewTek NDI integration for OBS Studio
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
