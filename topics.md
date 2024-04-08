@@ -309,6 +309,7 @@
 
 ## computer-vision 
 
+- [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 
 ## config 
@@ -376,6 +377,7 @@
 
 ## deep-learning 
 
+- [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -773,6 +775,7 @@
 
 ## machine-learning 
 
+- [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -1115,6 +1118,7 @@
 
 ## python 
 
+- [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
