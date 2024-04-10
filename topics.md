@@ -928,6 +928,7 @@
 
 ## others 
 
+- [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [tomdy123456/pywindoc](https://github.com/tomdy123456/pywindoc) - 
 - [yuansql/SMSBoom](https://github.com/yuansql/SMSBoom) - 
 - [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A multifunctional screen capture program
