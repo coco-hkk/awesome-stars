@@ -366,6 +366,7 @@
 
 ## Python 
 
+- [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [tomdy123456/pywindoc](https://github.com/tomdy123456/pywindoc) - 
 - [yuansql/SMSBoom](https://github.com/yuansql/SMSBoom) - 
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
