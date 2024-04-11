@@ -17,6 +17,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -185,7 +186,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [open-android/Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [xm0625/VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [ifmvo/TogetherAd](https://github.com/ifmvo/TogetherAd) - 🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
@@ -254,6 +255,10 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+
+## bot 
+
+- [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 
 ## c 
 
@@ -648,7 +653,7 @@
 ## ios 
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 
 ## java 
 
@@ -824,7 +829,7 @@
 ## material-design 
 
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com
 
 ## microsoft 
@@ -928,6 +933,7 @@
 
 ## others 
 
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [tomdy123456/pywindoc](https://github.com/tomdy123456/pywindoc) - 
 - [yuansql/SMSBoom](https://github.com/yuansql/SMSBoom) - 
@@ -1113,6 +1119,7 @@
 
 ## pwa 
 
+- [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
 - [mebtte/cicada](https://github.com/mebtte/cicada) - A multi-user music service for self-hosting.
@@ -1166,6 +1173,7 @@
 
 ## pytorch 
 
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [apachecn/.github](https://github.com/apachecn/.github) - ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
@@ -1179,6 +1187,7 @@
 
 ## react 
 
+- [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
@@ -1315,6 +1324,7 @@
 
 ## typescript 
 
+- [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，网课刷课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
@@ -1370,7 +1380,7 @@
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 
 ## webapp 
