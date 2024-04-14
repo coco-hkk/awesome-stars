@@ -52,6 +52,7 @@
 
 ## C 
 
+- [little-brother/odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.
