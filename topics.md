@@ -145,6 +145,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [telegram](#telegram)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -935,6 +936,7 @@
 
 ## others 
 
+- [little-brother/odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [lupnis/obs-python-scripts-collection](https://github.com/lupnis/obs-python-scripts-collection) - OBS Studio的Python脚本，绝大多数是B站直播使用，更新中
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [miaulightouch/obs-virtual-cam](https://github.com/miaulightouch/obs-virtual-cam) - 
@@ -1302,6 +1304,10 @@
 - [little-brother/sqlite-gui](https://github.com/little-brother/sqlite-gui) - Lightweight SQLite editor for Windows
 - [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio) - A free, open source, multi-platform SQLite database manager.
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## telegram 
 
