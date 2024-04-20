@@ -21,8 +21,8 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Meson](#meson)
 - [NSIS](#nsis)
 - [Others](#others)
 - [PHP](#php)
@@ -277,13 +277,13 @@
 - [JDreamHeart/DailyCodes](https://github.com/JDreamHeart/DailyCodes) - 主要是一些关于日常编程的练习，或者总结笔记
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 
-## Makefile 
-
-- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
+## Meson 
+
+- [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 
 ## NSIS 
 
