@@ -439,7 +439,7 @@
 ## emacs 
 
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
-- [universal-ctags/citre](https://github.com/universal-ctags/citre) - Ctags IDE on the True Editor
+- [universal-ctags/citre](https://github.com/universal-ctags/citre) - A superior code reading & auto-completion tool with pluggable backends.
 - [condy0919/.emacs.d](https://github.com/condy0919/.emacs.d) - 一个快速且实用的 Emacs 配置
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [daviwil/emacs-from-scratch](https://github.com/daviwil/emacs-from-scratch) - An example of a fully custom Emacs configuration developed live on YouTube!
