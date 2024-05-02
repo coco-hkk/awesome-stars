@@ -995,7 +995,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [Qquanwei/emacs-guess-word-game](https://github.com/Qquanwei/emacs-guess-word-game) - emacs guess word game for learning ESL. Emacs 背单词
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
+- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - [MIRROR] The path to GNUrvana
 - [sherlonWang/logodiy](https://github.com/sherlonWang/logodiy) - a simple logo diy tool online
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [fritzing/fritzing-parts](https://github.com/fritzing/fritzing-parts) - Electronic components for use in the Fritzing app (aka the parts library)
