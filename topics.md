@@ -901,6 +901,8 @@
 
 ## others 
 
+- [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
+- [xubeiyan/yukiyukiProject](https://github.com/xubeiyan/yukiyukiProject) - 
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
