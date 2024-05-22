@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [xubeiyan/yukiyukiProject](https://github.com/xubeiyan/yukiyukiProject) - 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [huanglaoxie0503/JS_Crack](https://github.com/huanglaoxie0503/JS_Crack) - JS逆向破解
@@ -348,6 +349,7 @@
 
 ## Python 
 
+- [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
 - [lupnis/obs-python-scripts-collection](https://github.com/lupnis/obs-python-scripts-collection) - OBS Studio的Python脚本，绝大多数是B站直播使用，更新中
