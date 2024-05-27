@@ -517,6 +517,7 @@
 
 ## Vue 
 
+- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
 - [FanQinFred/OCRmyPDF-Desktop](https://github.com/FanQinFred/OCRmyPDF-Desktop) - PDF OCR Application, adds an OCR text layer to scanned PDF files, allowing them to be copied and searched.
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 
