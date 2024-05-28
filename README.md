@@ -223,6 +223,7 @@
 
 ## JavaScript 
 
+- [prescience-data/dark-knowledge](https://github.com/prescience-data/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
 - [xubeiyan/yukiyukiProject](https://github.com/xubeiyan/yukiyukiProject) - 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [kkevsekk1/AutoX](https://github.com/kkevsekk1/AutoX) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
@@ -469,6 +470,7 @@
 
 ## TypeScript 
 
+- [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，网课刷课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
