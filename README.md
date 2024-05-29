@@ -350,6 +350,8 @@
 
 ## Python 
 
+- [Henryyy-Hung/Web-Crawler-of-Chinese-Fiction](https://github.com/Henryyy-Hung/Web-Crawler-of-Chinese-Fiction) - 基于python的中文网络小说爬虫/下载器，可以爬取并校对网络小说，输出txt文件
+- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat) - Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）
