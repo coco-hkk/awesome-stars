@@ -902,6 +902,7 @@
 
 ## others 
 
+- [Henryyy-Hung/Web-Crawler-of-Chinese-Fiction](https://github.com/Henryyy-Hung/Web-Crawler-of-Chinese-Fiction) - 基于python的中文网络小说爬虫/下载器，可以爬取并校对网络小说，输出txt文件
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
 - [wudududu/extract-video-ppt](https://github.com/wudududu/extract-video-ppt) - extract the ppt in the video
@@ -1096,6 +1097,7 @@
 
 ## python 
 
+- [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
