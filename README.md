@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [lingo34/novel-crawler-cli](https://github.com/lingo34/novel-crawler-cli) - 基于Node.JS 与puppeteer的纯命令行爬虫软件，以爬取小说网站上的小说资源。
 - [prescience-data/dark-knowledge](https://github.com/prescience-data/dark-knowledge) - 😈📚 A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
 - [xubeiyan/yukiyukiProject](https://github.com/xubeiyan/yukiyukiProject) - 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
