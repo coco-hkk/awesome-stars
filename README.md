@@ -329,7 +329,7 @@
 - [static-videoder/videoder](https://github.com/static-videoder/videoder) - 
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [Gabirel/Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
 - [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
