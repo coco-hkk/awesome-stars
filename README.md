@@ -329,7 +329,6 @@
 - [static-videoder/videoder](https://github.com/static-videoder/videoder) - 
 - [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 - [Gabirel/Hack-SpaceVim](https://github.com/Gabirel/Hack-SpaceVim) - 🚀 Tell you how to hack SpaceVim. Be useful. Try Discussions!
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [huanglizhuo/kotlin-in-chinese](https://github.com/huanglizhuo/kotlin-in-chinese) - kotlin 官方文档翻译
 - [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools) - 收集整理Android开发所需的Android SDK、开发中用到的工具、Android开发教程、Android设计规范，免费的设计素材等。
@@ -509,6 +508,7 @@
 ## Vim Script 
 
 - [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM) - vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [flazz/vim-colorschemes](https://github.com/flazz/vim-colorschemes) - one colorscheme pack to rule them all!
 - [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
