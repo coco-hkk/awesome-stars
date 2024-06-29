@@ -350,7 +350,7 @@
 
 ## dart 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## data-science 
 
@@ -478,11 +478,11 @@
 ## flutter 
 
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## flutter-apps 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## font 
 
@@ -584,7 +584,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
@@ -730,7 +730,7 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW UPDATES PAUSED.)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
@@ -1049,7 +1049,7 @@
 
 ## p2p 
 
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## package-manager 
@@ -1196,7 +1196,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。&lt;&lt;Rust语言圣经&gt;&gt;拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / B
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## security 
 
