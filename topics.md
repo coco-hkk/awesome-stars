@@ -376,7 +376,7 @@
 
 ## data-science 
 
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed RPA.
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Automate webpages at scale, scrape web data completely and accurately with high performance, distributed AI-RPA.
 
 ## data-structures 
 
