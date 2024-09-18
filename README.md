@@ -114,7 +114,6 @@
 ## C++ 
 
 - [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
-- [miaulightouch/obs-virtual-cam](https://github.com/miaulightouch/obs-virtual-cam) - 
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A multifunctional screen capture program
