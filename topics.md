@@ -950,7 +950,6 @@
 - [little-brother/odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [lupnis/obs-python-scripts-collection](https://github.com/lupnis/obs-python-scripts-collection) - OBS Studio的Python脚本，绝大多数是B站直播使用，更新中
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
-- [miaulightouch/obs-virtual-cam](https://github.com/miaulightouch/obs-virtual-cam) - 
 - [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [tomdy123456/pywindoc](https://github.com/tomdy123456/pywindoc) - 
