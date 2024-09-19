@@ -109,6 +109,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
@@ -166,7 +167,7 @@
 ## ai 
 
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
@@ -920,6 +921,10 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 
+## openai 
+
+- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
+
 ## opencv 
 
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -934,7 +939,6 @@
 
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [baifengbai/quanmou](https://github.com/baifengbai/quanmou) - 权谋资料库
-- [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译、OCR工具
 - [lingo34/novel-crawler-cli](https://github.com/lingo34/novel-crawler-cli) - 基于Node.JS 与puppeteer的纯命令行爬虫软件，以爬取小说网站上的小说资源。
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
 - [Henryyy-Hung/Web-Crawler-of-Chinese-Fiction](https://github.com/Henryyy-Hung/Web-Crawler-of-Chinese-Fiction) - 基于python的中文网络小说爬虫/下载器，可以爬取并校对网络小说，输出txt文件
