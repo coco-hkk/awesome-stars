@@ -262,6 +262,7 @@
 
 ## Jupyter Notebook 
 
+- [twinsant/ML](https://github.com/twinsant/ML) - 深度学习练习本
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
