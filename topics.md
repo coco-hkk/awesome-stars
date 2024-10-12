@@ -178,6 +178,7 @@
 
 ## android 
 
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
@@ -939,6 +940,7 @@
 
 ## others 
 
+- [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Android app
 - [twinsant/ML](https://github.com/twinsant/ML) - 深度学习练习本
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [baifengbai/quanmou](https://github.com/baifengbai/quanmou) - 权谋资料库
