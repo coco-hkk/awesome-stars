@@ -953,6 +953,7 @@
 
 ## others 
 
+- [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [RivTian/Qt6_Cplusplus-DevelopmentTutorialCode](https://github.com/RivTian/Qt6_Cplusplus-DevelopmentTutorialCode) - 自用 |《Qt6 C++ 开发指南》配套源码
 - [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
