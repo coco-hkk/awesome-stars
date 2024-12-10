@@ -51,6 +51,7 @@
 
 ## C 
 
+- [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 一键导出PC微信聊天记录工具
 - [git-for-windows/git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [little-brother/odbc-wlx](https://github.com/little-brother/odbc-wlx) - Lister (Total Commander) plugin to view Access, Excel and dsn files
 - [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
