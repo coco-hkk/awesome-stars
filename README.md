@@ -484,7 +484,7 @@
 
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS) - 如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/架构设计/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、Dashboard、Harbor、Jenkins、本地Gitlab、Apollo框架、Promtheus、Grafana、Spinnaker等。
-- [hello-yunshu/Xray_bash_onekey](https://github.com/hello-yunshu/Xray_bash_onekey) - Xray+Nginx 包含 VLESS WebSocket/gPRC+TLS / XTLS+TCP 协议的一键安装脚本
+- [hello-yunshu/Xray_bash_onekey](https://github.com/hello-yunshu/Xray_bash_onekey) - Xray 支持 Reality / VLESS WebSocket/gRPC+TLS 协议 + Nginx 的一键安装脚本
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
