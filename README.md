@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [norihiro/obs-face-tracker](https://github.com/norihiro/obs-face-tracker) - Face tracking plugin for OBS Studio
 - [RivTian/Qt6_Cplusplus-DevelopmentTutorialCode](https://github.com/RivTian/Qt6_Cplusplus-DevelopmentTutorialCode) - 自用 |《Qt6 C++ 开发指南》配套源码
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
