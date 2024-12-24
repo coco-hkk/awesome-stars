@@ -487,7 +487,7 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [emacs-evil/evil](https://github.com/emacs-evil/evil) - The extensible vi layer for Emacs.
 - [edkolev/evil-lion](https://github.com/edkolev/evil-lion) - Evil align operator
-- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 
 ## emoji 
 
@@ -791,7 +791,7 @@
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
@@ -844,7 +844,7 @@
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. (NEW UPDATES PAUSED.)
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
-- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
 ## markdown 
@@ -1494,7 +1494,7 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
-- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Less manual switch for native or OS input source (input method).
+- [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
