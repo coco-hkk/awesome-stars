@@ -51,6 +51,7 @@
 - [emacs](#emacs)
 - [emoji](#emoji)
 - [emulator](#emulator)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -495,6 +496,10 @@
 ## emulator 
 
 - [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
+
+## facebook 
+
+- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 
 ## finance 
 
