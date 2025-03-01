@@ -1083,7 +1083,6 @@
 - [TransposonY/GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
 - [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets,
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [lazyvip/Lazy13source.github.io](https://github.com/lazyvip/Lazy13source.github.io) - 
 - [160499844/xf-guokai](https://github.com/160499844/xf-guokai) - 国开自动刷课程序
 - [Levitans/XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
 - [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
