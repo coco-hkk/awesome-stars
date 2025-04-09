@@ -285,6 +285,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [twinsant/ML](https://github.com/twinsant/ML) - 深度学习练习本
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
