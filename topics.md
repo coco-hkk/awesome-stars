@@ -809,7 +809,7 @@
 
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - 🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - PulsarRPA: A Super-Fast, AI-Enabled Browser Automation Solution! 💖
+- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - PulsarRPA: An AI-Enabled, Super-Fast, Thread-Safe Browser Automation Solution! 💖
 
 ## lua 
 
