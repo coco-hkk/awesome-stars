@@ -216,7 +216,7 @@
 
 ## arduino 
 
-- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
+- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICSimLab - Programmable IC Simulator Laboratory
 - [arduino/arduino-ide](https://github.com/arduino/arduino-ide) - Arduino IDE 2.x
 - [arduino/Arduino](https://github.com/arduino/Arduino) - Arduino IDE 1.x
 
@@ -458,7 +458,7 @@
 
 ## education 
 
-- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
+- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICSimLab - Programmable IC Simulator Laboratory
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
@@ -498,7 +498,7 @@
 
 ## emulator 
 
-- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICsimLab - Programmable IC Simulator Laboratory
+- [lcgamboa/picsimlab](https://github.com/lcgamboa/picsimlab) - PICSimLab - Programmable IC Simulator Laboratory
 
 ## facebook 
 
