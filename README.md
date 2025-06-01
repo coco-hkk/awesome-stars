@@ -22,6 +22,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Meson](#meson)
@@ -305,6 +306,10 @@
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [lovejjfg/Readhub](https://github.com/lovejjfg/Readhub) - This is the Android Client for Readhub
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
+
+## LLVM 
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lua 
 
