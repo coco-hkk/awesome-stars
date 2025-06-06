@@ -978,7 +978,7 @@
 ## others 
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Foreverwonder/MaoZeDongXuanJi--1-7---](https://github.com/Foreverwonder/MaoZeDongXuanJi--1-7---) - 好不容易淘来的（doge）
 - [norihiro/obs-face-tracker](https://github.com/norihiro/obs-face-tracker) - Face tracking plugin for OBS Studio
