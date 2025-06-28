@@ -524,6 +524,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
