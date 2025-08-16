@@ -176,7 +176,6 @@
 - [xamarin](#xamarin)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -206,6 +205,7 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
 - [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [open-android/Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [xm0625/VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
@@ -671,7 +671,6 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [joomla/joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
@@ -735,6 +734,7 @@
 
 - [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 
 ## java 
@@ -904,6 +904,7 @@
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux. The 6th anniversary!
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
@@ -1597,6 +1598,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [WinMerge/winmerge](https://github.com/WinMerge/winmerge) - WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
 - [laishulu/emacs-smart-input-source](https://github.com/laishulu/emacs-smart-input-source) - Minimize manual input source (input method) switching.
@@ -1614,13 +1616,6 @@
 ## xml 
 
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
-
-## zsh 
-
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
