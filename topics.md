@@ -117,6 +117,7 @@
 - [nosql](#nosql)
 - [npm](#npm)
 - [numpy](#numpy)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -1014,6 +1015,10 @@
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
+## obsidian-md 
+
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
+
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1107,7 +1112,6 @@
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator) - 🔠Foreign language reading and translation assistant based on copy and translate.
 - [geovens/gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen.
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [wyagd001/RuYi-Ahk](https://github.com/wyagd001/RuYi-Ahk) - 一款快速运行自定义动作的软件, 动作可以打开文件, 运行程序, 发送按键,显示菜单和自定义的其他动作.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
