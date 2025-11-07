@@ -541,7 +541,6 @@
 ## TeX 
 
 - [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17) - 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
-- [cplusplus/draft](https://github.com/cplusplus/draft) - C++ standards drafts
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) - Elegant LaTeX Template for Books
 
