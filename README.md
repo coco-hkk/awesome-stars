@@ -323,7 +323,7 @@
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [ReadYouApp/ReadYou](https://github.com/ReadYouApp/ReadYou) - An Android RSS reader presented in Material You style.
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
+- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
 - [ifmvo/TogetherAd](https://github.com/ifmvo/TogetherAd) - 🔥持续更新。Android广告聚合：帮助 Android 开发者快速、便捷、灵活的接入国内多家主流安卓广告 SDK。广点通（优量汇）、穿山甲、快手联盟、百青藤（百度Mob）。开屏广告、Banner横幅广告、插屏广告、激励广告、原生信息流、全屏广告。
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -528,7 +528,7 @@
 - [hello-yunshu/Xray_bash_onekey](https://github.com/hello-yunshu/Xray_bash_onekey) - Xray支持Reality/VLESS WebSocket/gRPC+TLS协议+Nginx的一键安装脚本      Xray supports Reality / VLESS WebSocket/gRPC+TLS protocols + Nginx with one-click install scripts
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker) - :whale: Docker Image of TeXLive
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
