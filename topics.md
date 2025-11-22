@@ -286,7 +286,7 @@
 - [byodian/awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 
 ## bot 
@@ -1164,7 +1164,7 @@
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [TransposonY/GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet
 - [tporadowski/redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets,
-- [platonai/PulsarRPA](https://github.com/platonai/PulsarRPA) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
+- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4: a lightning-fast, coroutine-safe browser for your AI.
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [160499844/xf-guokai](https://github.com/160499844/xf-guokai) - 国开自动刷课程序
 - [Levitans/XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
@@ -1417,7 +1417,7 @@
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## software 
