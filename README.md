@@ -257,6 +257,7 @@
 
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [shareAI-lab/analysis_claude_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
+- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [lingo34/novel-crawler-cli](https://github.com/lingo34/novel-crawler-cli) - 基于Node.JS 与puppeteer的纯命令行爬虫软件，以爬取小说网站上的小说资源。
@@ -350,7 +351,6 @@
 ## Others 
 
 - [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2025最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
 - [Foreverwonder/MaoZeDongXuanJi--1-7---](https://github.com/Foreverwonder/MaoZeDongXuanJi--1-7---) - 好不容易淘来的（doge）
 - [AmusementClub/WenQuanYi-Bitmap-Song-TTF](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF) - 矢量 TTF 格式的文泉驿点阵宋体，覆盖 GB18030 的中文点阵字体/像素字体。
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
