@@ -399,6 +399,7 @@
 
 ## Pascal 
 
+- [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [Alexey-T/CudaLister](https://github.com/Alexey-T/CudaLister) - Lister plugin for Total Commander, based on ATSynEdit
 
 ## PowerShell 
