@@ -943,6 +943,7 @@
 ## markdown 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1110,7 +1111,6 @@
 - [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
 - [lupnis/obs-python-scripts-collection](https://github.com/lupnis/obs-python-scripts-collection) - OBS Studio的Python脚本，绝大多数是B站直播使用，更新中
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
-- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
 - [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [yuansql/SMSBoom](https://github.com/yuansql/SMSBoom) - 
 - [xland/ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
@@ -1609,6 +1609,7 @@
 
 ## windows 
 
+- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
