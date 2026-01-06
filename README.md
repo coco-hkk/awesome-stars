@@ -342,6 +342,7 @@
 
 ## Others 
 
+- [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [Foreverwonder/MaoZeDongXuanJi--1-7---](https://github.com/Foreverwonder/MaoZeDongXuanJi--1-7---) - 好不容易淘来的（doge）
 - [AmusementClub/WenQuanYi-Bitmap-Song-TTF](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF) - 矢量 TTF 格式的文泉驿点阵宋体，覆盖 GB18030 的中文点阵字体/像素字体。
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -350,7 +351,7 @@
 - [baifengbai/quanmou](https://github.com/baifengbai/quanmou) - 权谋资料库
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
-- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [ThanlonSmith/design-pattern](https://github.com/ThanlonSmith/design-pattern) - Python3实现设计模式，致力于将设计模式的思想应用在开发中。创建型模式有：简单工厂模式、工厂方法模式、抽象工厂模式、 建造者模式和单例模式；结构型模式：适配器模式、桥模式、组合模式、外观模式和代理模式；行为型模式：责任链模式、观察者模式、策略模式和模板方法模式。设计模式是对软件设计中普遍存在或反复出向的各种问题所提出的解决方案。每一个设计模式系统地被命名、解释和评价了面向对象系统中一个重要和重
