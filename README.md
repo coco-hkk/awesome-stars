@@ -45,6 +45,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
+- [YARA](#yara)
 
 ## AutoHotkey 
 
@@ -271,7 +272,6 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [maxmeng93/auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
-- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) - 
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
@@ -351,7 +351,6 @@
 - [baifengbai/quanmou](https://github.com/baifengbai/quanmou) - 权谋资料库
 - [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
 - [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回、聊天记录备份等功能
-- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [lTbgykio/Books-Free-Books](https://github.com/lTbgykio/Books-Free-Books) - 免费书籍汇总。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [ThanlonSmith/design-pattern](https://github.com/ThanlonSmith/design-pattern) - Python3实现设计模式，致力于将设计模式的思想应用在开发中。创建型模式有：简单工厂模式、工厂方法模式、抽象工厂模式、 建造者模式和单例模式；结构型模式：适配器模式、桥模式、组合模式、外观模式和代理模式；行为型模式：责任链模式、观察者模式、策略模式和模板方法模式。设计模式是对软件设计中普遍存在或反复出向的各种问题所提出的解决方案。每一个设计模式系统地被命名、解释和评价了面向对象系统中一个重要和重
@@ -541,6 +540,7 @@
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
+- [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
@@ -593,6 +593,10 @@
 ## XSLT 
 
 - [LCTT/LFS-BOOK](https://github.com/LCTT/LFS-BOOK) - LFS Book 翻译项目(本项目停止维护 最新简体中文版可移步Xi Ruoyao持续维护的网页https://lfs.xry111.site/zh_CN/)
+
+## YARA 
+
+- [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 
 ## License
