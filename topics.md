@@ -1087,6 +1087,7 @@
 
 ## others 
 
+- [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [rg-software/wlx-edge-viewer](https://github.com/rg-software/wlx-edge-viewer) - A modern Chromium-based lister plugin for Total Commander
