@@ -175,6 +175,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [userscript](#userscript)
+- [v2ray](#v2ray)
 - [vagrant](#vagrant)
 - [video](#video)
 - [vim](#vim)
@@ -1580,6 +1581,12 @@
 ## userscript 
 
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+## v2ray 
+
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
 ## vagrant 
 
