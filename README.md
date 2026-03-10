@@ -13,6 +13,7 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
+- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -53,6 +54,7 @@
 
 ## C 
 
+- [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
 - [a0rtega/pafish](https://github.com/a0rtega/pafish) - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 - [little-brother/sqlite-wlx](https://github.com/little-brother/sqlite-wlx) - Lister (Total Commander) plugin to view SQLite3 files
@@ -185,6 +187,10 @@
 
 - [lem-project/lem](https://github.com/lem-project/lem) - General-purpose editor/IDE with high expansibility in Common Lisp
 
+## Dart 
+
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
+
 ## Emacs Lisp 
 
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
@@ -247,6 +253,7 @@
 
 ## JavaScript 
 
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -345,6 +352,7 @@
 
 ## Others 
 
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) - :books: 华章计算机科学丛书高清扫描
 - [FastCopyLab/FastCopyDist2](https://github.com/FastCopyLab/FastCopyDist2) - for distribute FastCopy installer
 - [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [Foreverwonder/MaoZeDongXuanJi--1-7---](https://github.com/Foreverwonder/MaoZeDongXuanJi--1-7---) - 好不容易淘来的（doge）
