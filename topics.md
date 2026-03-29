@@ -1221,7 +1221,7 @@
 - [lenmus/lenmus](https://github.com/lenmus/lenmus) - LenMus Phonascus is a free open source program (GPL v3) for learning music. It allows you to focus on specific skills and exercises, on both theory and aural training. The different activities can be 
 - [gillesdegottex/fmit](https://github.com/gillesdegottex/fmit) - Free Music Instrument Tuner (FMIT)
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
-- [DeltaHao/IMG2PDF](https://github.com/DeltaHao/IMG2PDF) - 将多张图片转化为一个pdf文件
+- [leonzlhao/IMG2PDF](https://github.com/leonzlhao/IMG2PDF) - 将多张图片转化为一个pdf文件
 - [sma11black/hexo-action](https://github.com/sma11black/hexo-action) - Hexo CI/CD Action for automating deployment.
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
