@@ -393,7 +393,7 @@
 
 ## cms 
 
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [joomla/joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
 ## coding 
