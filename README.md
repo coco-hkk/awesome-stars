@@ -379,6 +379,7 @@
 
 ## Pascal 
 
+- [jrsoftware/issrc](https://github.com/jrsoftware/issrc) - Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizatio
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [Alexey-T/CudaLister](https://github.com/Alexey-T/CudaLister) - Lister plugin for Total Commander, based on ATSynEdit
 
