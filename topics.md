@@ -1175,7 +1175,6 @@
 - [douhaohaode/Swap-Mukham](https://github.com/douhaohaode/Swap-Mukham) - Gradio UI for insightface inswapper with additional features
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [WireGuard/wireguard-windows](https://github.com/WireGuard/wireguard-windows) - Download WireGuard for Windows at https://www.wireguard.com/install . This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-windows
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [editablejs/editable](https://github.com/editablejs/editable) - 🌱 A collaborative rich-text editor framework that focuses on stability, controllability, extensibility, and performance. 一款强到离谱的富文本编辑器框架，专注于稳定性、可控性、扩展性和性能。
