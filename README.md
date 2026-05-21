@@ -392,6 +392,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
 - [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) - MCP Server for Computer Use in Windows
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
@@ -523,7 +524,6 @@
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [ChromeDevTools/devtools-protocol](https://github.com/ChromeDevTools/devtools-protocol) - Chrome DevTools Protocol
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
