@@ -1656,7 +1656,7 @@
 ## windows 
 
 - [JoyHak/QuickSwitch](https://github.com/JoyHak/QuickSwitch) - Quickly Switch to the folder from any file manager.
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows) - Download Poppler binaries packaged for Windows with dependencies
 - [Xanashi/Icaros](https://github.com/Xanashi/Icaros) - Official issue tracker and download location for Icaros Shell Extensions
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
