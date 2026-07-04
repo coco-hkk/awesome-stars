@@ -29,6 +29,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -393,6 +394,10 @@
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 - [byodian/awesometools](https://github.com/byodian/awesometools) - 整理一些实用的软件工具和开发学习资源
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
+
+## claude 
+
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
 ## claude-code 
 
