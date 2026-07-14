@@ -1122,6 +1122,7 @@
 
 ## others 
 
+- [SwiftList/SwiftList](https://github.com/SwiftList/SwiftList) - A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MF
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [zmtom18988tmd/chinese-acupuncture-point](https://github.com/zmtom18988tmd/chinese-acupuncture-point) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
