@@ -835,7 +835,6 @@
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
-- [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [iSoron/uhabits](https://github.com/iSoron/uhabits) - Loop Habit Tracker, a mobile app for creating and maintaining long-term positive habits
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
 - [macrozheng/mall](https://github.com/macrozheng/mall) - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
@@ -918,7 +917,6 @@
 - [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror) - This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-- [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -1217,7 +1215,7 @@
 - [AnTi-anti/python-scrapy](https://github.com/AnTi-anti/python-scrapy) - 52讲轻松搞定爬虫
 - [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 - [just-talks/tech-talks](https://github.com/just-talks/tech-talks) - 不闲聊的技术论坛。分享有趣的事物，交流想法，获得灵感，结识朋友，提升自己。
-- [jellyfin-archive/jellyfin-desktop-qt](https://github.com/jellyfin-archive/jellyfin-desktop-qt) - Jellyfin Desktop Client
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [miaomiaosoft/PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro) - 多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具
 - [jiujuan/blog](https://github.com/jiujuan/blog) - my blog，把博客文章分门别类，整理成系列文章
@@ -1375,7 +1373,6 @@
 - [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
 - [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt) - OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark) - Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。
-- [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
 - [Elektordi/obs-websocket-py](https://github.com/Elektordi/obs-websocket-py) - Python library to communicate with an obs-websocket server (for OBS Studio)
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
