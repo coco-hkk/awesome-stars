@@ -1135,7 +1135,7 @@
 - [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [skeeto/w64devkit](https://github.com/skeeto/w64devkit) - Portable C and C++ Development Kit for x64 (and x86) Windows
-- [rg-software/wlx-edge-viewer](https://github.com/rg-software/wlx-edge-viewer) - A modern Chromium-based lister plugin for Total Commander
+- [rg-software/wlx-edge-viewer](https://github.com/rg-software/wlx-edge-viewer) - A modern Chromium-based lister plugin for Total Commander and Double Commander
 - [ITachiLab/hotkey-detective](https://github.com/ITachiLab/hotkey-detective) - A small program for investigating stolen key combinations under Windows 7 and later.
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
