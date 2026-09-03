@@ -1120,6 +1120,7 @@
 
 ## others 
 
+- [Dean-Song-1/z-anatomy-](https://github.com/Dean-Song-1/z-anatomy-) - 在原版z-anatomy的基础上添加了标签的中文支持
 - [xiaoyifang/goldendict-ng](https://github.com/xiaoyifang/goldendict-ng) - The Next Generation GoldenDict
 - [zmtom18988tmd/chinese-acupuncture-point](https://github.com/zmtom18988tmd/chinese-acupuncture-point) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
