@@ -31,7 +31,6 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -336,7 +335,7 @@
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
 - [baifengbai/quanmou](https://github.com/baifengbai/quanmou) - 权谋资料库
 - [kkndmetianya/kkndme_tianya](https://github.com/kkndmetianya/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - ⚠️ 停止维护 - 微信助手，支持群发消息、定时任务、消息防撤回等功能
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回等功能
 - [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts) - Simplified Chinese fonts for the LaTeX typesetting.
 - [ThanlonSmith/design-pattern](https://github.com/ThanlonSmith/design-pattern) - Python3实现设计模式，致力于将设计模式的思想应用在开发中。创建型模式有：简单工厂模式、工厂方法模式、抽象工厂模式、 建造者模式和单例模式；结构型模式：适配器模式、桥模式、组合模式、外观模式和代理模式；行为型模式：责任链模式、观察者模式、策略模式和模板方法模式。设计模式是对软件设计中普遍存在或反复出向的各种问题所提出的解决方案。每一个设计模式系统地被命名、解释和评价了面向对象系统中一个重要和重
 - [aeagean/WindowTop](https://github.com/aeagean/WindowTop) - 一个Windows平台的窗口置顶工具。
@@ -475,10 +474,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [vim-awesome/vim-awesome](https://github.com/vim-awesome/vim-awesome) - Awesome Vim plugins from across the universe
 - [AlanDecode/Maverick](https://github.com/AlanDecode/Maverick) - 🏄‍ A static blog generator built with Python.
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
