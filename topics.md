@@ -600,7 +600,7 @@
 
 ## electron 
 
-- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - ⚠️ 停止维护 - 微信助手，支持群发消息、定时任务、消息防撤回等功能
+- [yzqzy/wechat-assistant](https://github.com/yzqzy/wechat-assistant) - 微信助手，支持群发消息、定时任务、消息防撤回等功能
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，刷课脚本，网课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课  ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。
 - [GameGodS3/DropPoint](https://github.com/GameGodS3/DropPoint) - Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -1152,7 +1152,6 @@
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 
 - [RivTian/Qt6_Cplusplus-DevelopmentTutorialCode](https://github.com/RivTian/Qt6_Cplusplus-DevelopmentTutorialCode) - 自用 |《Qt6 C++ 开发指南》配套源码
 - [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [AmusementClub/WenQuanYi-Bitmap-Song-TTF](https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF) - 矢量 TTF 格式的文泉驿点阵宋体，覆盖 GB18030 的中文点阵字体/像素字体。
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
