@@ -1002,6 +1002,7 @@
 
 ## markdown 
 
+- [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源笔记模板，一键部署个人知识库和博客 | 开源工具、效率方法、心理学探索的自我提升笔记
 - [quillpad/quillpad](https://github.com/quillpad/quillpad) - Take beautiful markdown notes and stay organized with task lists.
@@ -1145,7 +1146,6 @@
 - [aoguai/LiYing](https://github.com/aoguai/LiYing) - LiYing is an automated photo processing program designed for automating the post-processing workflow of ID photos in general photo studios. | LiYing 是一套适用于自动化 完成一般照相馆后期证件照处理流程的照片自动处理的程序。
 - [Nevcairiel/LAVFilters](https://github.com/Nevcairiel/LAVFilters) - LAV Filters - Open-Source DirectShow Media Splitter and Decoders
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Foreverwonder/MaoZeDongXuanJi--1-7---](https://github.com/Foreverwonder/MaoZeDongXuanJi--1-7---) - 好不容易淘来的（doge）
 - [norihiro/obs-face-tracker](https://github.com/norihiro/obs-face-tracker) - Face tracking plugin for OBS Studio
@@ -1359,6 +1359,7 @@
 
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+- [oomol-lab/pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [openatx/uiautomator2](https://github.com/openatx/uiautomator2) - Android Uiautomator2 Python Wrapper
 - [davisking/dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
