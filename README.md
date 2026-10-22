@@ -11,7 +11,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
-- [Dart](#dart)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [Go](#go)
@@ -64,7 +63,6 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
-- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scr
@@ -74,7 +72,6 @@
 ## C# # 
 
 - [SwiftList/SwiftList](https://github.com/SwiftList/SwiftList) - A modern, high-performance local file search and productivity tool for Windows. A sleek, customizable alternative to Everything and Listary built with C# WPF and NT Services, featuring instant NTFS MF
-- [YetAnotherPomodoroApp/YAPA-2](https://github.com/YetAnotherPomodoroApp/YAPA-2) - Minimalistic desktop timer app for Pomodoro Technique users
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [MattMcManis/Axiom](https://github.com/MattMcManis/Axiom) - An FFmpeg GUI for Windows
@@ -170,10 +167,6 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
-## Dart 
-
-- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
-
 ## Emacs Lisp 
 
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
@@ -250,7 +243,6 @@
 - [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [maxmeng93/auto-study](https://github.com/maxmeng93/auto-study) - 自动刷国家开放大学课程进度
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -277,7 +269,6 @@
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-- [fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [twinsant/ML](https://github.com/twinsant/ML) - 深度学习练习本
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -308,7 +299,6 @@
 
 ## Lua 
 
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [JDreamHeart/DailyCodes](https://github.com/JDreamHeart/DailyCodes) - 主要是一些关于日常编程的练习，或者总结笔记
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 
@@ -323,6 +313,7 @@
 
 ## Others 
 
+- [M0rtzz/Selected-Works-of-MaoTseTung](https://github.com/M0rtzz/Selected-Works-of-MaoTseTung) - 毛泽东选集（1-7：原版五卷+静火+赤旗+草堂）、毛泽东读书集成、毛泽东大传、毛泽东年谱、毛泽东画传等
 - [Dean-Song-1/z-anatomy-](https://github.com/Dean-Song-1/z-anatomy-) - 在原版z-anatomy的基础上添加了标签的中文支持
 - [zmtom18988tmd/chinese-acupuncture-point](https://github.com/zmtom18988tmd/chinese-acupuncture-point) - 
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
@@ -352,7 +343,6 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech & services
 - [lio-zero/blog](https://github.com/lio-zero/blog) - I hope my content can help you. Now I focus on the front-end field, but I will also share what I see and feel in my limited time.✨✨
-- [demopark/koa-docs-Zh-CN](https://github.com/demopark/koa-docs-Zh-CN) - Koa 文档的中文版本 , 更新至 v2.13.4 版本.
 - [alexandreelise/j4x-api-collection](https://github.com/alexandreelise/j4x-api-collection) - An attempt to help the Joomla! 4.x, 5.x, 6.x and beyond,  early adopters, mainly focused for developers. It's an unofficial  postman collection of the official since Joomla4 Beta API until now
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [open-android/Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
@@ -388,7 +378,6 @@
 ## Python 
 
 - [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) - 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [entr0pia/SwitchyOmega-Whitelist](https://github.com/entr0pia/SwitchyOmega-Whitelist) - 中国大陆域名, SwitchyOmega 白名单规则, 自动更新
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -416,8 +405,6 @@
 - [lupnis/obs-python-scripts-collection](https://github.com/lupnis/obs-python-scripts-collection) - OBS Studio的Python脚本，绝大多数是B站直播使用，更新中
 - [diprajpatra/selenium-stealth](https://github.com/diprajpatra/selenium-stealth) - Trying to make python selenium more stealthy.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-- [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle) - Style transfer, deep learning, feature transform
 - [yuansql/SMSBoom](https://github.com/yuansql/SMSBoom) - 
 - [wxWidgets/Phoenix](https://github.com/wxWidgets/Phoenix) - wxPython's Project Phoenix.  A new implementation of wxPython, better, stronger, faster than he was before.
 - [2833844911/gurs](https://github.com/2833844911/gurs) - python模拟鼠标滑动轨迹
@@ -430,8 +417,6 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [chiwent/awesome-linux-software-cn](https://github.com/chiwent/awesome-linux-software-cn) - Linux 优秀软件资源大全中文版：一些针对 Linux 发行版的非常棒的应用程序、实用工具以及其它相关材料。A curated list of awesome applications, softwares, tools and other materials for Linux distros.
-- [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
-- [douhaohaode/Swap-Mukham](https://github.com/douhaohaode/Swap-Mukham) - Gradio UI for insightface inswapper with additional features
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [qiwihui/python-advanced](https://github.com/qiwihui/python-advanced) - Python 进阶（中文）
 - [bosombaby/flask-course](https://github.com/bosombaby/flask-course) - Flask 是一个使用 Python 编写的轻量级 Web 应用框架。它基于 Werkzeug WSGI 工具箱和 Jinja2 模板引擎，提供了简单易用的 API，可以帮助开发者快速构建 Web 应用程序。Flask 框架具有灵活性和可扩展性，可以根据需要添加各种插件和扩展，例如数据库集成、表单验证、用户认证等。Flask 框架还提供了丰富的文档和社区支持，使得开发者可以轻松地学习和使用它。
@@ -463,7 +448,6 @@
 - [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/
 - [pytransitions/transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation in Python with many extensions
 - [baijum/selenium-python](https://github.com/baijum/selenium-python) - Selenium Python Bindings Documentation
-- [kingname/GeneralNewsExtractor](https://github.com/kingname/GeneralNewsExtractor) - 新闻网页正文通用抽取器 Beta 版.
 - [Levitans/XueXiTongAutoFlush](https://github.com/Levitans/XueXiTongAutoFlush) - 通过Python的selenium开发的学习通刷课程序，可完自动成视频、PPT和答题。
 - [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
@@ -521,7 +505,6 @@
 ## TypeScript 
 
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
-- [zidoro/pomatez](https://github.com/zidoro/pomatez) - Stay Focused. Take a Break.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [iconify/iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (over 200 icon sets and ~300k icons). S
