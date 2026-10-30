@@ -15,6 +15,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
@@ -79,7 +80,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-engine](#game-engine)
-- [games](#games)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -276,6 +277,11 @@
 ## angular 
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+## animation 
+
+- [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
+- [xm0625/VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
 
 ## api 
 
@@ -687,9 +693,9 @@
 
 - [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 
-## games 
+## gaming 
 
-- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - App for displaying pressed keys of the keyboard
+- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - Key displayer for Windows that shows pressed keyboard and mouse keys on screen - in a separate window or as an RTSS overlay in fullscreen games.
 
 ## git 
 
@@ -1691,6 +1697,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+- [Jagailo/YetAnotherKeyDisplayer](https://github.com/Jagailo/YetAnotherKeyDisplayer) - Key displayer for Windows that shows pressed keyboard and mouse keys on screen - in a separate window or as an RTSS overlay in fullscreen games.
 - [RoderickQiu/wnr](https://github.com/RoderickQiu/wnr) - ⏱️ Work/Rest Timer. Stricter. Prettier. More features. Win/Mac/Linux.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
