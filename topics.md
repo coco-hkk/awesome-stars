@@ -234,7 +234,7 @@
 ## ai-agents 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
+- [krisyangdev/ChatLLM-Web](https://github.com/krisyangdev/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
 
 ## algorithms 
 
@@ -950,7 +950,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 - [twinsant/ML](https://github.com/twinsant/ML) - 深度学习练习本
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
+- [krisyangdev/ChatLLM-Web](https://github.com/krisyangdev/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
 
 ## lua 
 
@@ -1342,7 +1342,7 @@
 
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
+- [krisyangdev/ChatLLM-Web](https://github.com/krisyangdev/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
 - [mebtte/cicada](https://github.com/mebtte/cicada) - 🎵 💻 📱 A multi-user music service for self-hosting.
 
 ## python 
@@ -1416,7 +1416,7 @@
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [Privoce/vocechat-web](https://github.com/Privoce/vocechat-web) - VoceChat Web App
-- [Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
+- [krisyangdev/ChatLLM-Web](https://github.com/krisyangdev/ChatLLM-Web) - Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [lio-zero/blog](https://github.com/lio-zero/blog) - I hope my content can help you. Now I focus on the front-end field, but I will also share what I see and feel in my limited time.✨✨
 
