@@ -188,6 +188,7 @@
 - [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1198,7 +1199,6 @@
 - [wyagd001/RuYi-Ahk](https://github.com/wyagd001/RuYi-Ahk) - 一款快速运行自定义动作的软件, 动作可以打开文件, 运行程序, 发送按键,显示菜单和自定义的其他动作.
 - [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [FanQinFred/pdfocr-desktop](https://github.com/FanQinFred/pdfocr-desktop) - PDF OCR Application, adds an OCR text layer to scanned PDF files, allowing them to be copied and searched.
 - [kaushikj/video2pdf](https://github.com/kaushikj/video2pdf) - 
 - [ximendadao/kankan](https://github.com/ximendadao/kankan) - python爬虫破解js，天天看看登录（www.kankan.com）
@@ -1631,6 +1631,11 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+## vscode 
+
+- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+- [lio-zero/blog](https://github.com/lio-zero/blog) - I hope my content can help you. Now I focus on the front-end field, but I will also share what I see and feel in my limited time.✨✨
 
 ## vue 
 
