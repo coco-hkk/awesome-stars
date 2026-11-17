@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -211,6 +212,11 @@
 ## agent-skills 
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+
+## agentic-ai 
+
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [platonai/Browser4](https://github.com/platonai/Browser4) - Browser4 — an AI-native browser engine for autonomous agents, intelligent extraction, and large-scale web automation.
 
 ## agents 
 
