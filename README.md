@@ -521,7 +521,7 @@
 - [MayGo/tockler](https://github.com/MayGo/tockler) - An application that tracks your time by monitoring your active window title and idle time.
 - [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) - Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [mebtte/cicada](https://github.com/mebtte/cicada) - 🎵 💻 📱 A multi-user music service for self-hosting.
+- [mebtte/cicada](https://github.com/mebtte/cicada) - Cicada is a music service for self-hosting.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
